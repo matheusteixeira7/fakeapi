@@ -6,7 +6,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -16,8 +16,10 @@
             "neighborhood": "Jardim Paulista",
             "city": "São Paulo",
             "UF": "RJ",
-            "seller": "Roberto Fonseca",
-            "sellerPicture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg",
+            "seller": {
+                "name": "Roberto Fonseca",
+                "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
+            },
             "createdAt": "08/04/2022",
             "status": "Pendente"
         },
@@ -27,7 +29,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -40,7 +42,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cadastrado"
         },
@@ -50,7 +52,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -63,7 +65,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Efetivado"
         },
@@ -73,7 +75,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -86,17 +88,17 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cancelado"
         },
         {
             "id": "b2abcee3-4fe2-44e1-b4f0-792bb4856bda",
             "name": "Teodoro Esmeralda",
-           "cpf": "06652553490",
+            "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -109,7 +111,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Pendente"
         },
@@ -119,7 +121,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -132,7 +134,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cadastrado"
         },
@@ -142,7 +144,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -155,7 +157,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Efetivado"
         },
@@ -165,7 +167,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -178,7 +180,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cancelado"
         },
@@ -188,7 +190,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -201,7 +203,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Pendente"
         },
@@ -211,7 +213,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -224,7 +226,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cadastrado"
         },
@@ -234,7 +236,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -247,7 +249,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Efetivado"
         },
@@ -257,7 +259,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -270,7 +272,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cancelado"
         },
@@ -280,7 +282,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -293,7 +295,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Pendente"
         },
@@ -303,7 +305,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -316,7 +318,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cadastrado"
         },
@@ -326,7 +328,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -339,7 +341,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Efetivado"
         },
@@ -349,7 +351,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -362,7 +364,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cancelado"
         },
@@ -372,7 +374,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -385,7 +387,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Pendente"
         },
@@ -395,7 +397,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -408,7 +410,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cadastrado"
         },
@@ -418,7 +420,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -431,7 +433,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Efetivado"
         },
@@ -441,7 +443,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -454,7 +456,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cancelado"
         },
@@ -464,7 +466,7 @@
             "cpf": "06652553490",
             "birthday": "19/11/1983",
             "phone1": "24999999999",
-            "phone1": "",
+            "phone2": "",
             "whatsapp": "24999999999",
             "email": "email@gmail.com",
             "cep": "27521031",
@@ -477,7 +479,7 @@
             "seller": {
                 "name": "Roberto Fonseca",
                 "picture": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
-            }
+            },
             "createdAt": "08/04/2022",
             "status": "Cancelado"
         }
